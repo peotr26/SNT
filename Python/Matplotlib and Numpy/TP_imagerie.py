@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import random
+
 img = np.zeros((50, 50, 3), dtype=np.uint8)
 
 x = 0
