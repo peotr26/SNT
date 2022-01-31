@@ -1,0 +1,52 @@
+body {
+	background: #F5ECCE ;
+	font-family: "Times New roman" ;
+}
+
+#container {
+	margin: 0 auto;
+	width: 500px;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 28px;
+	font-weight: bold;
+	color: #0B3B0B;
+}
+
+
+h2 {
+	text-align: left;
+	font-size: 18px;
+	font-weight: bold;
+	color: #570906 ;
+}
+
+
+h3 {
+	text-align: left;
+	font-size: 18px;
+	font-weight: bold;
+	color: #570906 ;
+}
+
+
+p,ul,li {
+ 	color: #086A87;
+}
+
+
+a {
+	color: #677E52;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+a:hover {
+	color: #677E52;
+	font-weight: bold;
+	text-decoration: underline;
+}
